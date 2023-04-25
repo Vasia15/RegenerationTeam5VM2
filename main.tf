@@ -16,7 +16,7 @@ provider "azurerm" {
 
 # Create a resource group
 resource "azurerm_resource_group" "main" {
-  name     = "${var.prefix}-codehub-reg"
+  name     = "${var.prefix}-regen-reg"
   location = var.location
 }
 
