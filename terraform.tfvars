@@ -1,4 +1,4 @@
-prefix = "regen"
-location = "northeurope"
-admin_username = "team5"
-admin_password = "Regente@m5"
+prefix = "reg"
+location = "nort"
+admin_username = "username"
+admin_password = "password"
