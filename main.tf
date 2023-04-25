@@ -16,7 +16,7 @@ provider "azurerm" {
 
 # Create a resource group
 resource "azurerm_resource_group" "main" {
-  name     = "${var.prefix}-regen-reg"
+  name     = "${var.prefix}-regene-team5"
   location = var.location
 }
 
